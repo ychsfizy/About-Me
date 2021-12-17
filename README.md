@@ -1,7 +1,7 @@
 #### Olá... Eu sou Figueredo Henriques
 ##### Amante de Tecnologia
 ###### Seja Bem Vindo ao meu Pequeno Mundo
-- <div align="rigth">
+<div align="rigth">
   <a href="https://github.com/ychsfizy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ychsfizy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychsfizy&layout=compact&langs_count=7&theme=dracula"/>
